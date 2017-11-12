@@ -1,0 +1,8 @@
+1) List your accounts
+-> web3.eth.accounts
+
+2) Get your balance
+-> web3.eth.getBalance(eth.coinbase)
+
+3) Numerical balance
+-> web3.toWei
