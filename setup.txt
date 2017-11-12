@@ -1,7 +1,10 @@
 1) Setup Geth Data Folder
 -> mkdir data
+
+2) Initialize genesis file
 -> geth --datadir "C:\Users\Jason\Documents\Jason\chaindata" init genesis.json
 
-geth --datadir "C:\Users\Jason\Documents\Jason\chaindata" init genesis.json
+3) Connect to the network
+-> geth --datadir "C:\Users\Jason\Documents\Jason\chaindata" --networkid 20171104 console
 
-geth --datadir "C:\Users\Jason\Documents\Jason\chaindata" --networkid 20171104 console
+4)
