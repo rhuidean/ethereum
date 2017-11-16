@@ -5,4 +5,6 @@
 -> web3.eth.getBalance(eth.coinbase)
 
 3) Numerical balance
--> web3.toWei
+-> web3.toWei(1, "ether")
+
+4) Verification
