@@ -7,4 +7,4 @@
 3) Connect to the network
 -> geth --datadir "C:\Users\Jason\Documents\Jason\chaindata" --networkid 20171104 console
 
-4)
+4) 
