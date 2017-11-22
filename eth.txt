@@ -1,0 +1,8 @@
+eth.accounts
+
+eth.getBalance(eth.accounts[1])
+
+eth.coinbase
+
+personal.listAccounts
+
